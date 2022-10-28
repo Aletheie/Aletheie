@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna Jungmannová</h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif"/>
 <h3 align="center">A fifteen-year-old girl who is passionate about programming.</h3>
 
 
