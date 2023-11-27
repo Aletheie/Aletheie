@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Next.js<br>⚡ I want to learn Swift
+🌱 I’m currently learning SwiftUI<br>⚡ I want to learn Vapor
 
 ## 🌐 Socials:
 
