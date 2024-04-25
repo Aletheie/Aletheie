@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Aletheie/Aletheie/assets/65088142/acce1f94-a02a-4556-af50-fd304ab568bc">
 
-## 💫 About Me:
+### 💫 About Me:
 
 💼 I am currently working as a fullstack developer at _Česká televize_\
 🔐 Member of cybersecurity bootcamps for Team Europe\
