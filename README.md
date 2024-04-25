@@ -18,6 +18,8 @@
 <a href="https://www.instagram.com/jungmannovaa/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="IG profile" height="30" width="40" /></a>
 </p>
 
+__
+
 ### UI/UX
 
 <p align="left">
@@ -83,7 +85,9 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" height="30" width="40" />
 </p>
 
-### ⬇️ My GitHub stats
+__
+
+### ⬇ My GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Aletheie&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aletheie&theme=default&hide_border=false)<br/>
