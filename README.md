@@ -1,4 +1,4 @@
-## Hi I'm Anne 🙋🏻‍♀️ from 🇨🇿
+# Hi I'm Anne 🙋🏻‍♀️ from 🇨🇿
 <img align="right" alt="Coding" width="400" src="https://github.com/Aletheie/Aletheie/assets/65088142/acce1f94-a02a-4556-af50-fd304ab568bc">
 
 ### About Me:
