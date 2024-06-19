@@ -54,6 +54,7 @@ __
 <img align="center" src="https://res.cloudinary.com/dgj3s3q6m/image/upload/v1714032795/vite_oqnhut.svg" alt="Vite" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/svelte.svg" alt="Svelte" height="30" width="40" />
 <img align="center" src="https://res.cloudinary.com/dgj3s3q6m/image/upload/v1714032949/lit_nardzu.svg" alt="Lit" height="30" width="40" />
+<img align="center" src="https://res.cloudinary.com/deko9pmzi/image/upload/v1718820854/ugkhoayy1yrof7zfrde3.svg" alt="Fresh" height="30" width="40" />
 </p>
 
 ### Backend Dev
