@@ -3,9 +3,8 @@
 
 ### About Me:
 
-- I am currently working as a fullstack developer at _Česká televize_ 💼
-- Member of cybersecurity bootcamps for Team Europe 🔐
-- I also teach programming to kids on a part-time basis ❤️
+- I am currently working as a full-stack engineer at _Apify_ 💼
+- Member of cybersecurity bootcamps for Team Europe 2024 🔐
 - My heart belongs to Swift (I don't mean Taylor) 🦉
 - I want to learn Vapor ⚡
 
